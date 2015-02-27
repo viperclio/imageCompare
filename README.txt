@@ -10,7 +10,7 @@ To initialize the plugin just make a simple markup like:
 	<img src="img/demo2.png" />
 </div>
 
-and then declare a new instance of the plugin like:</br>
+and then declare a new instance of the plugin like:
 var compare = new ImageDetect('.container');
               or
 var compare = new ImageDetect('.container', 2); // you can use 1, 2, 3 or 4 to set where the moving overlay will start at. Default is 2
